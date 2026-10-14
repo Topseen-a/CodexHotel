@@ -257,4 +257,4 @@ duplicates, remove them first or the app won't start.
 
 ## Author
 
-Built by **Temitope Abodunrin** — [github.com/Topseen-a](https://github.com/Topseen-a)
+Built by [Temitope](https://github.com/Topseen-a).
